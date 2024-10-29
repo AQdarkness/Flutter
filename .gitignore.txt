@@ -1,0 +1,15 @@
+#ignore node files 
+
+node_modules/
+
+#ignore dart tools 
+.dart_tool/
+.idea/
+
+#ignore vscode unnecessary files 
+.vscode/
+
+#other unnecessary Files and folder
+.git/
+*.log
+macos/
