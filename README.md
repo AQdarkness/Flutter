@@ -4,6 +4,7 @@ A new Flutter project.
 I adding this part of code in .vscode -> lunch.json file to run with chrome by pushing f5
 
 "
+
     "configurations": [
         {
             "name": "Launchwithchrome",
