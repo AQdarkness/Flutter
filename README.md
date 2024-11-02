@@ -1,6 +1,29 @@
 # loginpage
 
 A new Flutter project.
+I adding this part of code in .vscode -> lunch.json file to run with chrome by pushing f5
+"
+    "configurations": [
+        {
+            "name": "Launchwithchrome",
+            "type": "dart",
+            "request": "launch",
+            "program":"put your file location here",
+            "args": [
+                "-d",
+                "chrome"
+            ]
+        },
+"
+
+or this command in cmd/terminal :
+"
+flutter run "put your file location here" -d chrome
+"
+For example : 
+"
+flutter run lib/loginpage.dart -d chrome
+"
 
 ## Getting Started
 
